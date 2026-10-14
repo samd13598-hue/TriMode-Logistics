@@ -1,0 +1,6 @@
+{
+  "name": "TriMode Logistics | تراي مود للخدمات اللوجستية",
+  "description": "تراي مود للخدمات اللوجستية والنقل الشامل في اليمن. شحن بري وبحري وجوي، تتبع الشحنات بالوقت الفعلي، وحاسبة وطلب عروض الأسعار.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
